@@ -60,13 +60,13 @@ spring:
       enabled: false
   task:
     execution:
-      thread-name-prefix: jh-01-task-
+      thread-name-prefix: jh01-task-
       pool:
         core-size: 1
         max-size: 50
         queue-capacity: 10000
     scheduling:
-      thread-name-prefix: jh-01-scheduling-
+      thread-name-prefix: jh01-scheduling-
       pool:
         size: 1
   thymeleaf:

@@ -39,7 +39,7 @@
     "nativeLanguage": "ja",
     "languages": ["ja", "en"],
     "blueprints": [],
-    "herokuAppName": "jh-01",
+    "herokuAppName": "jh01",
     "herokuDeployType": "git"
   }
 }

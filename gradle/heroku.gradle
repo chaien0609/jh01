@@ -1,7 +1,7 @@
 apply plugin: "com.heroku.sdk.heroku-gradle"
 
 heroku {
-  appName = "jh-01"
+  appName = "jh01"
   buildpacks = ["heroku/jvm"]
 }
 
