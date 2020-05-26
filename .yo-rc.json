@@ -38,6 +38,8 @@
     "enableTranslation": true,
     "nativeLanguage": "ja",
     "languages": ["ja", "en"],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "jh-01",
+    "herokuDeployType": "git"
   }
 }
