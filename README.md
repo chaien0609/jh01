@@ -1,5 +1,7 @@
 # jh01
 
+Need to refer to this document.
+
 This application was generated using JHipster 6.9.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.9.0](https://www.jhipster.tech/documentation-archive/v6.9.0).
 
 ## Development
